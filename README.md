@@ -18,4 +18,5 @@
 - [Quartz Composer Facebook group](https://www.facebook.com/groups/quartzcomposercommunity/)
 - [Kineme – Lots of very useful plugins and tools](http://kineme.net/)
 - [1024 plugins and examples](http://1024d.wordpress.com/qc-plugins/)
-- [How to use QC files with Resolume](http://resolume.com/manual/en/r4/qc)
+- [Resolume + Quartz Composer](http://resolume.com/manual/en/r4/qc)
+- [VDMX + Quartz Composer](http://vdmx.vidvox.net/tutorials/quartz-composer-sources-inputs)
