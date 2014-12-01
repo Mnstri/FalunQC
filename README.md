@@ -1,1 +1,1 @@
-Examples from the Creative Coding for Live Visuals workshop.
+Examples from the Falun QC workshop
