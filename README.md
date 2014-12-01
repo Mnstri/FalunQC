@@ -10,7 +10,8 @@
 - Generative graphics, animations, image processing, inputs/outputs
 - Using plugins
 - How to use QC compositions with other applications (Resolume, VDMX)
-- Exporting apps from QC compositions
+- Exporting apps from QC composition
+- Working on your own compositions
 
 ## Links & Resources
 
